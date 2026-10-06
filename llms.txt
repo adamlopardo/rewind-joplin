@@ -1,11 +1,12 @@
 # Rewind Joplin
 
-> Rewind Joplin is a local home-media digitization service in Joplin, Missouri. It converts VHS, VHS-C, S-VHS, Hi8, Video8, and Digital8 tapes, photo prints, 35mm slides, negatives, album pages, audio cassettes, microcassettes, and audio CDs into digital files. All media is handled locally in Joplin and never mailed away.
+> Rewind Joplin is a local home-media digitization service in Joplin, Missouri. It converts VHS, VHS-C, S-VHS, Hi8, Video8, and Digital8 tapes, home-recorded DVDs, data and photo CDs, photo prints, 35mm slides, negatives, album pages, audio cassettes, microcassettes, and audio CDs into digital files. All media is handled locally in Joplin and never mailed away.
 
 ## Services and prices
 - Video tapes to MP4: $25/tape (1-4), $20 (5-10), $17 (11-25), $15 (26+). $30 minimum order. Blank tapes are free.
 - Photo prints, 35mm slides, negatives: $0.95 each, $0.70 each for 250+. Album pages: $2.50, $1.95 for 250+.
-- Audio cassettes and microcassettes: $20 (1-4), $15 (5+). Audio CDs: $12 (1-4), $8 (5+).
+- Audio cassettes and microcassettes: $20 (1-4), $15 (5+).
+- Home-recorded DVDs to MP4: $15/disc (1-4), $12 (5+). Audio CDs to MP3/WAV: $12 (1-4), $8 (5+). Data or photo CDs/DVDs copied to USB or cloud: $10 (1-4), $7 (5+). Store-bought copy-protected movies not included.
 - Add-ons: 64GB USB drive $15, 30-day cloud link $10, DVD copy $12, custom file names $2/tape, tape repair $20, mold cleaning $25, video editing $60/hour.
 - Packages: The Shoebox $199 (up to 10 tapes + USB + cloud link), The Family Archive $369 (up to 20 tapes + USB + cloud link + custom file names), The Vault $499 (up to 30 tapes + 2 USB + cloud link + custom file names + DVD).
 - Not offered: MiniDV and Betamax.
